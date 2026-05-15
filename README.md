@@ -748,7 +748,7 @@
 
 <script>
     // Google Sheets Web App URL
-    const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbz8DV2_voNWrm1Tg5dB-H3nL54POMXJGl0YunJ85zuUJWPJ_U0WarggTBLt4Q74YlgQxA/exec';
+    const GOOGLE_SHEETS_URL = 'https://mpbnwlzlxnqkhugdxmtb.supabase.co';
     
     // User storage
     let currentUser = null;
